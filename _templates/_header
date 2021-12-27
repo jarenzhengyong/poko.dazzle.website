@@ -2,7 +2,7 @@
    <div class="container">
       <div class="logo">
          <h1 ><a href="index.html"><!-- <b>T<br>H<br>E</b>Big Store<span>The Best Supermarket</span> -->
-            <img src="images/Logo.gif" alt="" style="height:50px;object-fit:cover;">
+            <img src="images/Logo.jpg" alt="" style="height:100px;object-fit:cover;">
          </a></h1>
       </div>
       <div class="head-t">
@@ -46,7 +46,7 @@
                <li><a href="index.html" class="hyper "><span>首頁</span></a></li>	
                
                <li >
-                  <a href="kitchen.html" class="dropdown-toggle  hyper"  ><span>印刷服務</span></a>
+                  <a href="kitchen.html" class="dropdown-toggle  hyper"  ><span>在線產品</span></a>
                   <!-- <ul class="dropdown-menu multi"> class="dropdown " data-toggle="dropdown" <b class="caret"></b>
                      <div class="row">
                         <div class="col-sm-3">
