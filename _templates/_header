@@ -2,7 +2,7 @@
    <div class="container">
       <div class="logo">
          <h1 ><a href="index.html"><!-- <b>T<br>H<br>E</b>Big Store<span>The Best Supermarket</span> -->
-            <img src="images/Logo.jpg" alt="" style="height:100px;object-fit:cover;">
+            <img src="/images/logo.jpg" alt="" style="height:100px;object-fit:cover;">
          </a></h1>
       </div>
       <div class="head-t">
